@@ -63,11 +63,12 @@ This demo shows the transition from my existing OS (**Pop!_OS**) to running **Fe
 The important detail: Pop!_OS remains untouched — Fedora is only running from the USB.
 
 ### Before (Pop!_OS as main OS)
-<img width="1920" height="1080" alt="popos-desktop" src="https://github.com/user-attachments/assets/your-popos-screenshot-id" />
+<img width="779" height="438" alt="image" src="https://github.com/user-attachments/assets/c55499f8-d8c6-4208-a712-6eeaf9d2b530" />
 
 ### After (Fedora Workstation Live USB)
-<img width="1920" height="1080" alt="fedora-desktop" src="https://github.com/user-attachments/assets/your-fedora-screenshot-id" />
+<img width="776" height="438" alt="image" src="https://github.com/user-attachments/assets/4bfa32a9-1712-4caa-ae78-e54e3bdf61dd" />
 
 
-   <img width="1554" height="878" alt="image" src="https://github.com/user-attachments/assets/7d0dd086-b2c9-4108-894c-66f2060d57ce" />
+
+  
 
