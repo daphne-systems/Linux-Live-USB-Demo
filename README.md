@@ -33,9 +33,6 @@ While this guide uses **Fedora Workstation** as the example, the same steps work
 
    - Plug in your USB.
    - Back up anything important — the USB will be erased.
-   - (This is common sense but I still wanted to included an image)
-     
-      <img width="1600" height="1068" alt="image" src="https://github.com/user-attachments/assets/57bcb6d4-979d-4c7a-b9fb-f8ba8acc7225" />
 
 4. **Flash with balenaEtcher**
    - Open balenaEtcher.
@@ -56,12 +53,18 @@ While this guide uses **Fedora Workstation** as the example, the same steps work
    - Restart your computer.
    - Enter the **boot menu** (`F12`, `F10`, `ESC`, or `Del`, depending on your machine).
    - Choose your USB drive.
+  
+     <img width="1348" height="1160" alt="image" src="https://github.com/user-attachments/assets/1d1e1596-fa3d-45d9-82fc-881c64d2b244" /
+
+     <img width="1570" height="1134" alt="image" src="https://github.com/user-attachments/assets/a79462a3-0378-4744-a7c4-e099d3771e49" />
+
 
 6. **Run Linux in Live Mode**
    - Most distributions will show a menu option such as:  
      **“Try [Distro] without installing”** or **“Start [Distro]-Live”**
    - Select that option.  
    - The system will run entirely from the USB, leaving your existing OS untouched.
+
      
 
 
@@ -72,7 +75,3 @@ While this guide uses **Fedora Workstation** as the example, the same steps work
 - Live mode does not save files/settings after reboot unless you enable persistence (not covered here).  
 - Performance depends on the speed of the USB drive and port.
 
----
-
-## License
-MIT License
